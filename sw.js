@@ -7,13 +7,7 @@ const urlsToCache = [
   '/how-it-works.html',
   '/contact.html',
   '/manifest.json',
-  '/icons/icon.svg',
-  'https://cdn.tailwindcss.com',
-  'https://unpkg.com/lucide@latest',
-  'https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap',
-  'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js',
-  'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js',
-  'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js'
+  '/icon.svg',
 ];
 
 // Install event - cache assets
