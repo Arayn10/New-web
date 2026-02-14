@@ -2,7 +2,7 @@ const CACHE_NAME = 'clearskies-v1';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/eco-route.html',
+  '/dashboard.html',
   '/features.html',
   '/how-it-works.html',
   '/contact.html',
